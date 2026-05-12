@@ -4,6 +4,7 @@ EventMate is a MERN-stack based college event management system designed to simp
 
 The platform allows committee members to create and manage events, while students can view upcoming events, register for them, and receive email notifications so they never miss important college activities.
 
+Additionally, the system helps track and manage student participation credits earned through events. Committee members can also export student and event data for reporting and management purposes.
 ---
 
 # 🚀 Features
